@@ -1,2 +1,2 @@
 # Hello from readme
-~ i am itay
+i am **itay**
